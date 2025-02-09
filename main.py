@@ -74,7 +74,7 @@ while num <= 10:
     
 numeros = [ 8, 3, 10, 1,5]
 numeros.sort()
-print("Números em ordem crescente:", numeros)
+print("Números em ordem crescente: !", numeros)
 
 #Missão 8: Acessando os Registros de Alunos 🏷️
     #O sistema de alunos está desordenado! Para acessar as informações corretamente, você precisa organizar os dados.
