@@ -106,4 +106,5 @@ def contar_letras(nome):
 
 print(contar_letras("Larissa"))
 
-#🔹 Você restaurou a escola Vai na Web! 🎉 Com cada desafio superado, você ajudou a salvar o sistema. Agora, você se tornou um(a) verdadeiro(a) programador(a) FullStack lendário(a)!!! 🚀
+#🔹 Você restaurou a escola Vai na Web! 🎉 Com cada desafio superado, você ajudou a salvar o sistema.
+# Agora, você se tornou um(a) verdadeiro(a) programador(a) FullStack lendário(a)!!! 🚀
