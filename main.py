@@ -8,7 +8,7 @@ nota = float(input('Digite a nota do aluno: '))
 if nota >= 6:  
     print('Parabéns 😊! você foi aprovado.')  
 else:  
-    print('Sinto muito 😔, você foi reprovado!')
+    print('Sinto muito 😔, você foi reprovado!!')
     
 #Missão 2: O Sistema Eleitoral Secreto 📝
     #O grêmio estudantil da escola realiza votações para decidir melhorias e inovações, mas o vírus desativou a verificação de elegibilidade para votar! Sua tarefa é criar um programa que pergunte a idade do usuário e informe se ele pode votar (mínimo: 16 anos).
