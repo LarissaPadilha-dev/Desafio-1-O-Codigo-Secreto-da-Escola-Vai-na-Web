@@ -18,7 +18,7 @@ idade =int(input ("Qual sua idade: "))
 if idade >=16:
     print('O aluno pode votar!')
 else:  
-    print('O aluno não idade pra votar!')
+    print('O aluno não tem idade pra votar!')
 
 #Missão 3: Recuperando o Sistema de Notas 📊
     #As classificações das provas desapareceram! Agora os alunos não sabem se tiraram um não sabem se tiraram um A, B, C, D ou F . Antes que o pânico se espalhe, sua tarefa é criar um programa que peça a nota do aluno e imprima sua classificação conforme a escala:
